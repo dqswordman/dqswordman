@@ -4,10 +4,10 @@
 
 ## Open-source papers
 
-### Complex Utility, Simple Calibration
+### Complex Utility, Simple Calibration: Decision Sufficiency in RAG Evidence Selection
 
-Decision Sufficiency in RAG Evidence Selection · **WSDM 2027 Findings**
+**WSDM 2027 Findings**
 
-Evidence selection in multi-hop question answering, with archived scores and a CPU replay.
+Follow one archived RAG evidence decision and reproduce the paper’s results from public scores on CPU.
 
-[Technical report](https://dqswordman.github.io/technical-reports/decision-sufficiency/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/decision-sufficiency/) · [Code](https://github.com/dqswordman/rag-decision-sufficiency) · [Release v1.0.0](https://github.com/dqswordman/rag-decision-sufficiency/releases/tag/v1.0.0)
+[Paper companion](https://dqswordman.github.io/technical-reports/decision-sufficiency/) · [中文伴读](https://dqswordman.github.io/zh/technical-reports/decision-sufficiency/) · [Code](https://github.com/dqswordman/rag-decision-sufficiency) · [Reproduction guide](https://github.com/dqswordman/rag-decision-sufficiency/blob/main/docs/reproduction.md) · [Release v1.0.0](https://github.com/dqswordman/rag-decision-sufficiency/releases/tag/v1.0.0)
