@@ -10,42 +10,39 @@
       position: relative;
       isolation: isolate;
       width: 1296px;
-      height: 312px;
+      height: 262px;
       overflow: hidden;
-      padding: 49px 69px;
-      background: radial-gradient(ellipse at 87% 0%, #305745, transparent 60%), #17332e;
+      padding: 47px 68px;
+      background: radial-gradient(ellipse at 87% 0%, #365d4b, transparent 62%), #17332e;
     }
     main::before {
       content: '';
       position: absolute;
       z-index: -1;
-      top: -278px;
-      right: -157px;
-      width: 740px;
-      height: 740px;
-      transform: rotate(-23deg) scaleX(.85);
+      top: -245px;
+      right: -207px;
+      width: 778px;
+      height: 778px;
+      transform: rotate(-21deg) scaleX(.76);
       border-radius: 50%;
-      background: repeating-radial-gradient(circle, transparent 0 35px, #b8cbb83a 36px 37px);
-      mask-image: linear-gradient(to left, #000, #0004);
+      background: repeating-radial-gradient(circle, transparent 0 34px, #b8cbb82e 35px 36px);
+      mask-image: linear-gradient(to left, #000, #0002);
     }
-    .identity {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      margin: 0;
-      color: #ddc9a0;
-      font: 22px Consolas, monospace;
-      letter-spacing: .13em;
-      text-transform: uppercase;
+    main::after {
+      content: '';
+      position: absolute;
+      left: 68px;
+      bottom: 36px;
+      width: 44px;
+      height: 2px;
+      background: #d8c49a;
     }
-    .identity::before { content: ''; width: 31px; height: 1px; background: currentColor; }
-    h1 { margin: 15px 0 6px; font: 400 92px/1.04 Georgia, serif; letter-spacing: -.06em; }
-    .role { margin: 0; color: #d6e4d8; font: 31px/1.5 'Segoe UI', sans-serif; }
+    h1 { margin: 0 0 9px; font: 400 95px/1.04 Georgia, serif; letter-spacing: -.06em; }
+    .role { margin: 0; color: #d6e4d8; font: 32px/1.4 'Segoe UI', sans-serif; }
   </style>
 </head>
 <body>
   <main>
-    <p class="identity">Independent researcher</p>
     <h1>Wenzhang Du</h1>
     <p class="role">AI safety &amp; empirical machine learning</p>
   </main>
