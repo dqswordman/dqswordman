@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Wenzhang Du · Research profile cover</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; color: #f7f5ec; background: #17332e; }
+    main {
+      position: relative;
+      isolation: isolate;
+      width: 1296px;
+      height: 312px;
+      overflow: hidden;
+      padding: 49px 69px;
+      background: radial-gradient(ellipse at 87% 0%, #305745, transparent 60%), #17332e;
+    }
+    main::before {
+      content: '';
+      position: absolute;
+      z-index: -1;
+      top: -278px;
+      right: -157px;
+      width: 740px;
+      height: 740px;
+      transform: rotate(-23deg) scaleX(.85);
+      border-radius: 50%;
+      background: repeating-radial-gradient(circle, transparent 0 35px, #b8cbb83a 36px 37px);
+      mask-image: linear-gradient(to left, #000, #0004);
+    }
+    .identity {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      margin: 0;
+      color: #ddc9a0;
+      font: 22px Consolas, monospace;
+      letter-spacing: .13em;
+      text-transform: uppercase;
+    }
+    .identity::before { content: ''; width: 31px; height: 1px; background: currentColor; }
+    h1 { margin: 15px 0 6px; font: 400 92px/1.04 Georgia, serif; letter-spacing: -.06em; }
+    .role { margin: 0; color: #d6e4d8; font: 31px/1.5 'Segoe UI', sans-serif; }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="identity">Independent researcher</p>
+    <h1>Wenzhang Du</h1>
+    <p class="role">AI safety &amp; empirical machine learning</p>
+  </main>
+</body>
+</html>
