@@ -1,4 +1,4 @@
-![Wenzhang Du · AI safety and empirical machine learning](assets/research-cover.png)
+![Wenzhang Du · Data mining, RAG & trustworthy machine learning](assets/research-cover.png)
 
 <p align="left">
   <img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=dqswordman&amp;color=1b4d3e&amp;style=flat-square&amp;label=VIEWS">
