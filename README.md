@@ -13,9 +13,9 @@
 
 > ### Complex Utility, Simple Calibration: Decision Sufficiency in RAG Evidence Selection
 >
-> **WSDM 2027 Findings**
+> **WSDM 2027**
 >
-> Follow one archived RAG evidence decision and reproduce the paper’s results from public scores on CPU.
+> **TL;DR** An optional check of the proposed passage set reduced mean normalized selection regret from 0.272 to 0.162 across 1,440 matched RAG settings.
 >
 > <p>
 >   <a href="https://dqswordman.github.io/technical-reports/decision-sufficiency/"><img alt="Paper companion" src="https://img.shields.io/badge/Paper_companion-1B4D3E?style=flat-square"></a>
