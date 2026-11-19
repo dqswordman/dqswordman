@@ -29,3 +29,17 @@
   <a href="https://huggingface.co/spaces/DQSWORDMAN/rag-decision-sufficiency"><img alt="Hugging Face Space" src="https://img.shields.io/badge/Hugging_Face-Space-1B4D3E?style=flat-square&amp;labelColor=263238"></a>
   <a href="https://github.com/dqswordman/rag-decision-sufficiency/releases/latest"><img alt="Latest reproducibility release" src="https://img.shields.io/github/v/release/dqswordman/rag-decision-sufficiency?style=flat-square&amp;label=Release&amp;labelColor=263238&amp;color=1B4D3E"></a>
 </p>
+
+### [PAIRSAFE: Proxy-Resistant Paired Safety Evaluation for Refusal Boundaries](https://github.com/dqswordman/pairsafe)
+
+**AACL-IJCNLP 2026 · Long Paper** · [ACL Anthology](https://aclanthology.org/2026.aacl-long.124/)
+
+Qwen ranked **148 of 150** matched pairs correctly. A threshold learned on other pairs classified both members correctly in **132**, and the separate generation check succeeded on **105**.
+
+[Read the report](https://dqswordman.github.io/technical-reports/pairsafe/) · [中文伴读](https://dqswordman.github.io/zh/technical-reports/pairsafe/) · [Reproduce on CPU](https://github.com/dqswordman/pairsafe/blob/v1.0.0/docs/reproduction.md)
+
+<p>
+  <a href="https://github.com/dqswordman/pairsafe"><img alt="PAIRSAFE GitHub repository and stars" src="https://img.shields.io/github/stars/dqswordman/pairsafe?style=flat-square&amp;label=GitHub%20stars&amp;labelColor=263238&amp;color=1B4D3E"></a>
+  <a href="https://huggingface.co/spaces/DQSWORDMAN/pairsafe"><img alt="PAIRSAFE interactive threshold explorer" src="https://img.shields.io/badge/Hugging_Face-Space-1B4D3E?style=flat-square&amp;labelColor=263238"></a>
+  <a href="https://github.com/dqswordman/pairsafe/releases/latest"><img alt="PAIRSAFE versioned CPU release" src="https://img.shields.io/github/v/release/dqswordman/pairsafe?style=flat-square&amp;label=Release&amp;labelColor=263238&amp;color=1B4D3E"></a>
+</p>
