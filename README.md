@@ -45,3 +45,8 @@ Qwen ranked **148 of 150** matched pairs correctly. A threshold learned on other
   <a href="https://huggingface.co/spaces/DQSWORDMAN/pairsafe"><img alt="PAIRSAFE interactive threshold explorer" src="https://img.shields.io/badge/Hugging_Face-Space-1B4D3E?style=flat-square&amp;labelColor=263238"></a>
   <a href="https://github.com/dqswordman/pairsafe/releases/latest"><img alt="PAIRSAFE versioned CPU release" src="https://img.shields.io/github/v/release/dqswordman/pairsafe?style=flat-square&amp;label=Release&amp;labelColor=263238&amp;color=1B4D3E"></a>
 </p>
+
+## Research experience
+
+- **Independent Researcher** · Late April 2026 – Present
+- **Research Intern, Earth and Space Center** · July 2025 – Late April 2026
