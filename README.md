@@ -14,13 +14,15 @@
   <br clear="right">
 </p>
 
+[Selected research](https://dqswordman.github.io/research/#selected) · [Technical reports](https://dqswordman.github.io/technical-reports/) · [Open-source projects](https://dqswordman.github.io/open-source/)
+
 ## Open-source papers
 
 ### [Complex Utility, Simple Calibration: Decision Sufficiency in RAG Evidence Selection](https://github.com/dqswordman/rag-decision-sufficiency)
 
-**WSDM 2027** · [Publication record](https://dqswordman.github.io/#paper-decision-sufficiency)
+**WSDM 2027** · Accepted · [Project overview](https://dqswordman.github.io/research/decision-sufficiency/) · [Publication record](https://dqswordman.github.io/#paper-decision-sufficiency)
 
-**TL;DR** An optional check of the proposed passage set reduced mean normalized selection regret from **0.272 to 0.162** across 1,440 matched RAG settings.
+Across **180 questions and 1,440 matched settings**, checking the proposed evidence set reduced mean normalized regret from **0.272 to 0.162** as mean scoring calls rose from **9 to 9.61**. Taking the best already-measured set at nine calls gave **0.213**. This offline evaluation uses reference answers.
 
 [Read the report](https://dqswordman.github.io/technical-reports/decision-sufficiency/) · [中文伴读](https://dqswordman.github.io/zh/technical-reports/decision-sufficiency/) · [Reproduce on CPU](https://github.com/dqswordman/rag-decision-sufficiency/blob/main/docs/reproduction.md)
 
@@ -32,7 +34,7 @@
 
 ### [PAIRSAFE: Proxy-Resistant Paired Safety Evaluation for Refusal Boundaries](https://github.com/dqswordman/pairsafe)
 
-**AACL-IJCNLP 2026 · Long Paper** · [ACL Anthology](https://aclanthology.org/2026.aacl-long.124/)
+**AACL-IJCNLP 2026 · Long Paper** · [Project overview](https://dqswordman.github.io/research/pairsafe/) · [ACL Anthology](https://aclanthology.org/2026.aacl-long.124/)
 
 Qwen ranked **148 of 150** matched pairs correctly. A threshold learned on other pairs classified both members correctly in **132**, and the separate generation check succeeded on **105**.
 
