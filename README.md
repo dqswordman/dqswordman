@@ -16,7 +16,7 @@
 
 [Selected research](https://dqswordman.github.io/research/#selected) · [Technical reports](https://dqswordman.github.io/technical-reports/) · [Open-source projects](https://dqswordman.github.io/open-source/)
 
-## Open-source papers
+## Selected research
 
 ### [Complex Utility, Simple Calibration: Decision Sufficiency in RAG Evidence Selection](https://github.com/dqswordman/rag-decision-sufficiency)
 
@@ -31,6 +31,16 @@ Across **180 questions and 1,440 matched settings**, checking the proposed evide
   <a href="https://huggingface.co/spaces/DQSWORDMAN/rag-decision-sufficiency"><img alt="Hugging Face Space" src="https://img.shields.io/badge/Hugging_Face-Space-1B4D3E?style=flat-square&amp;labelColor=263238"></a>
   <a href="https://github.com/dqswordman/rag-decision-sufficiency/releases/latest"><img alt="Latest reproducibility release" src="https://img.shields.io/github/v/release/dqswordman/rag-decision-sufficiency?style=flat-square&amp;label=Release&amp;labelColor=263238&amp;color=1B4D3E"></a>
 </p>
+
+### [When Is Program Structure Required? Certificate-Grounded Calibration of Program-Induction Difficulty](https://github.com/dqswordman/program-structure-certificates)
+
+**arXiv preprint · November 2026** · [Paper](https://arxiv.org/abs/2611.24975) · [Project overview](https://dqswordman.github.io/research/program-structure-certificates/)
+
+Across **120 reference families**, changing one demonstration can raise the certified minimum program length from one rule to two. With five shared examples, Qwen3-8B completed **67/120** control tasks and **12/120** separation tasks. Its success on a separate hidden witness pair increased by **9.17 percentage points**.
+
+[Technical report](https://dqswordman.github.io/technical-reports/program-structure-certificates/) · [中文伴读](https://dqswordman.github.io/zh/technical-reports/program-structure-certificates/) · [Hugging Face explorer](https://huggingface.co/spaces/DQSWORDMAN/program-structure-certificates) · [GitHub release](https://github.com/dqswordman/program-structure-certificates/releases/tag/v1.0.0)
+
+## Other open-source papers
 
 ### [PAIRSAFE: Proxy-Resistant Paired Safety Evaluation for Refusal Boundaries](https://github.com/dqswordman/pairsafe)
 
