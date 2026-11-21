@@ -64,19 +64,19 @@ I share completed studies here when I consider their evidence too narrow for the
 
 Follow the same RAG question as two passages change order. Across 539 questions, relaxing the passage budget accounts for 4.79 of Mistral’s 5.91 token-F1-point gain.
 
-[PDF](https://dqswordman.github.io/assets/reports/rag-evidence-selection-paths/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/rag-evidence-selection-paths/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/rag-evidence-selection-paths/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/rag-evidence-selection-paths) · [Release](https://github.com/dqswordman/rag-evidence-selection-paths/releases/tag/v1.0.0)
+[PDF](https://dqswordman.github.io/assets/reports/rag-evidence-selection-paths/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/rag-evidence-selection-paths/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/rag-evidence-selection-paths/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/rag-evidence-selection-paths) · [Release](https://github.com/dqswordman/rag-evidence-selection-paths/releases/tag/v1.0.1)
 
 ### [Beyond Pairwise Overlap: Shared-Value Observations for Compositional Text Embeddings](https://github.com/dqswordman/shared-value-embeddings)
 
 Two 23-state observation plans differ in which city their edits share. On atomic text the shared-value plan reduces reconstruction error by 53.4% for BGE and 36.0% for E5.
 
-[PDF](https://dqswordman.github.io/assets/reports/shared-value-embeddings/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/shared-value-embeddings/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/shared-value-embeddings/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/shared-value-embeddings) · [Release](https://github.com/dqswordman/shared-value-embeddings/releases/tag/v1.0.0)
+[PDF](https://dqswordman.github.io/assets/reports/shared-value-embeddings/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/shared-value-embeddings/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/shared-value-embeddings/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/shared-value-embeddings) · [Release](https://github.com/dqswordman/shared-value-embeddings/releases/tag/v1.0.1)
 
 ### [When Does Document Replay Help Evidence-State Question Answering?](https://github.com/dqswordman/document-replay-evidence-qa)
 
 On 32 paired worlds, document replay leads closed-book replay by 19.25 percentage points with synthetic attachments and trails by 7.92 points with WikiText. Sixteen fresh worlds preserve both directions.
 
-[PDF](https://dqswordman.github.io/assets/reports/document-replay-evidence-qa/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/document-replay-evidence-qa/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/document-replay-evidence-qa/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/document-replay-evidence-qa) · [Release](https://github.com/dqswordman/document-replay-evidence-qa/releases/tag/v1.0.0)
+[PDF](https://dqswordman.github.io/assets/reports/document-replay-evidence-qa/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/document-replay-evidence-qa/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/document-replay-evidence-qa/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/document-replay-evidence-qa) · [Release](https://github.com/dqswordman/document-replay-evidence-qa/releases/tag/v1.0.1)
 
 ## Research experience
 
