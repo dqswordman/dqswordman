@@ -14,7 +14,7 @@
   <br clear="right">
 </p>
 
-[Selected research](https://dqswordman.github.io/research/#selected) · [Technical reports](https://dqswordman.github.io/technical-reports/) · [Open-source projects](https://dqswordman.github.io/open-source/)
+[Selected research](https://dqswordman.github.io/research/#selected) · [Technical reports](https://dqswordman.github.io/technical-reports/) · [Open-source projects](https://dqswordman.github.io/open-source/) · [Open Research Reports](https://dqswordman.github.io/open-research/)
 
 ## Selected research
 
@@ -55,6 +55,28 @@ Qwen ranked **148 of 150** matched pairs correctly. A threshold learned on other
   <a href="https://huggingface.co/spaces/DQSWORDMAN/pairsafe"><img alt="PAIRSAFE interactive threshold explorer" src="https://img.shields.io/badge/Hugging_Face-Space-1B4D3E?style=flat-square&amp;labelColor=263238"></a>
   <a href="https://github.com/dqswordman/pairsafe/releases/latest"><img alt="PAIRSAFE versioned CPU release" src="https://img.shields.io/github/v/release/dqswordman/pairsafe?style=flat-square&amp;label=Release&amp;labelColor=263238&amp;color=1B4D3E"></a>
 </p>
+
+## Open Research Reports
+
+I share completed studies here when I consider their evidence too narrow for the conference I had in mind. Each release includes the manuscript, its measured results and a CPU reproduction path. [Browse the collection](https://dqswordman.github.io/open-research/) · [中文目录](https://dqswordman.github.io/zh/open-research/) · [Hugging Face collection](https://huggingface.co/collections/DQSWORDMAN/open-research-reports-6b019707aeffeec0b0f43136)
+
+### [From Evidence Scores to RAG Answers: Budget, Search, and Presentation](https://github.com/dqswordman/rag-evidence-selection-paths)
+
+Follow the same RAG question as two passages change order. Across 539 questions, relaxing the passage budget accounts for 4.79 of Mistral’s 5.91 token-F1-point gain.
+
+[PDF](https://dqswordman.github.io/assets/reports/rag-evidence-selection-paths/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/rag-evidence-selection-paths/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/rag-evidence-selection-paths/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/rag-evidence-selection-paths) · [Release](https://github.com/dqswordman/rag-evidence-selection-paths/releases/tag/v1.0.0)
+
+### [Beyond Pairwise Overlap: Shared-Value Observations for Compositional Text Embeddings](https://github.com/dqswordman/shared-value-embeddings)
+
+Two 23-state observation plans differ in which city their edits share. On atomic text the shared-value plan reduces reconstruction error by 53.4% for BGE and 36.0% for E5.
+
+[PDF](https://dqswordman.github.io/assets/reports/shared-value-embeddings/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/shared-value-embeddings/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/shared-value-embeddings/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/shared-value-embeddings) · [Release](https://github.com/dqswordman/shared-value-embeddings/releases/tag/v1.0.0)
+
+### [When Does Document Replay Help Evidence-State Question Answering?](https://github.com/dqswordman/document-replay-evidence-qa)
+
+On 32 paired worlds, document replay leads closed-book replay by 19.25 percentage points with synthetic attachments and trails by 7.92 points with WikiText. Sixteen fresh worlds preserve both directions.
+
+[PDF](https://dqswordman.github.io/assets/reports/document-replay-evidence-qa/manuscript.pdf) · [Technical report](https://dqswordman.github.io/technical-reports/document-replay-evidence-qa/) · [中文技术报告](https://dqswordman.github.io/zh/technical-reports/document-replay-evidence-qa/) · [Hugging Face](https://huggingface.co/spaces/DQSWORDMAN/document-replay-evidence-qa) · [Release](https://github.com/dqswordman/document-replay-evidence-qa/releases/tag/v1.0.0)
 
 ## Research experience
 
